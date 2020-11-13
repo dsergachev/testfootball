@@ -1,0 +1,11 @@
+{
+    "db": {
+        "server" : "localhost",
+        "user" : "root",
+        "password" : "",
+        "database" : "tz"
+    },
+    "app": {
+        "viewPath" : "/app/view"
+    }
+}
